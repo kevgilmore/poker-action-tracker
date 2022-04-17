@@ -1,3 +1,8 @@
+# Intellij
+.idea
+py-poker/.idea
+node-poker/.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
